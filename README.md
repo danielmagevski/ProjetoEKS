@@ -1,4 +1,4 @@
-# ProjetoECS
+# ProjetoEKS
 
 [![CI](https://github.com/danielmagevski/ProjetoEKS/actions/workflows/apply.yml/badge.svg)](https://github.com/danielmagevski/ProjetoEKS/actions/workflows/apply.yml)
 
